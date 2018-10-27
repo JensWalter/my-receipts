@@ -1,0 +1,97 @@
+./2018/cn/cafe/20181024.pdf
+./2018/cn/cafe/20181024_002.pdf
+./2018/cn/cafe/20181024_007.pdf
+./2018/cn/cafe/20181024_011.pdf
+./2018/cn/cafe/20181024_014.pdf
+./2018/cn/cafe/20181024_016.pdf
+./2018/cn/cafe/20181024_018 (2).pdf
+./2018/cn/cafe/20181024_018 (1).pdf
+./2018/cn/cafe/20181024_018.pdf
+./2018/cn/retail/20181024_009.pdf
+./2018/cn/retail/20181024_010.pdf
+./2018/cn/retail/20181024_013.pdf
+./2018/cn/retail/20181024_015 (1).pdf
+./2018/cn/retail/20181024_017 (1).pdf
+./2018/cn/tourist attraction/20181024_015 (2).pdf
+./2018/cn/restaurant/20181024_005.pdf
+./2018/cn/restaurant/20181024_015.pdf
+./2018/cn/restaurant/20181024_017.pdf
+./2018/cn/restaurant/20181024_019.pdf
+./2018/cn/public transport/20181024_001.pdf
+./2018/cn/public transport/20181024_003.pdf
+./2018/cn/public transport/20181024_004.pdf
+./2018/cn/public transport/20181024_012.pdf
+./2018/de/cafe/starbucks-254352354.pdf
+./2018/de/cafe/starbucks-15373.pdf
+./2018/de/cafe/EPSON090.PDF
+./2018/de/cafe/20181024_018.pdf
+./2018/de/hotel/20180915_THE MADISON HAMBURG.pdf
+./2018/de/hotel/20181024_Ibis Styles Konstanz.pdf
+./2018/de/hotel/20181024_THE MADISON HAMBURG.pdf
+./2018/de/restaurant/jimblock-5453q54.pdf
+./2018/de/restaurant/jimblock-2435345.pdf
+./2018/de/restaurant/roses-453453.pdf
+./2018/de/restaurant/mcdonalds-2432542345.pdf
+./2018/de/restaurant/burgerlich-436534234.pdf
+./2018/de/restaurant/losteria-435326542345.pdf
+./2018/de/restaurant/swissbreak-12143242354.pdf
+./2018/de/restaurant/mcdonalds-213432543543.pdf
+./2018/de/restaurant/bonngout-454325362536.pdf
+./2018/de/restaurant/mcdonalds-5435652354.pdf
+./2018/de/restaurant/jimblock-135420543.pdf
+./2018/de/restaurant/indiancrown_20180812.pdf
+./2018/de/restaurant/20180909.pdf
+./2018/de/restaurant/20180915_001.pdf
+./2018/de/restaurant/cafeluise_20181026.pdf
+./2018/de/restaurant/peterpane_20181027.pdf
+./2018/de/retail/Edeka-764.pdf
+./2018/de/retail/dm-5376524547654.pdf
+./2018/de/retail/rewe-35645636345.pdf
+./2018/de/retail/hm-8657767665.pdf
+./2018/de/retail/hm-324235435.pdf
+./2018/de/retail/hub-1243253424.pdf
+./2018/de/retail/20180811.pdf
+./2018/de/retail/20180811_001.pdf
+./2018/de/retail/EPSON089.PDF
+./2018/de/retail/mediamarkt-20181026_001.pdf
+./2018/de/public transport/hvv-35645436356.pdf
+./2018/de/public transport/vrs-3576214365.pdf
+./2018/de/public transport/hvv-2543543543.pdf
+./2018/de/public transport/bahn-UFXWCO.pdf
+./2018/de/public transport/bahn-893VBQ.pdf
+./2018/de/public transport/bahn-UKW9RT.pdf
+./2018/de/public transport/bahn-RUWFTQ.pdf
+./2018/de/public transport/bahn-ONHSNG.pdf
+./2018/de/public transport/bahn-LVE97O.pdf
+./2018/ca/hotel/20181024_008.pdf
+./2018/ca/tourist attraction/seatosky_20180908_005.pdf
+./2018/ca/tourist attraction/seatosky_20180908_009.pdf
+./2018/ca/restaurant/flamingwok_20180908_003.pdf
+./2018/ca/restaurant/oldspaghettifactory_20180908_006.pdf
+./2018/ca/restaurant/cafecrepe_20180908_008.pdf
+./2018/ca/restaurant/redrobin_20180908_013.pdf
+./2018/ca/restaurant/mcdonalds_20180908_015.pdf
+./2018/ca/restaurant/benflorentines-593603.PDF
+./2018/ca/restaurant/eggspectation-237309.PDF
+./2018/ca/public transport/translink_20180908_012.pdf
+./2018/ca/public transport/translink_20180908_016.pdf
+./2018/ca/public transport/translink_20180908_009.pdf
+./2018/ca/retail/wholefoods_20180908_010.pdf
+./2018/ca/retail/safeway_20180908_011.pdf
+./2018/ca/retail/wholefoods_20180908_014.pdf
+./2018/ca/retail/hm_20180908_017.pdf
+./2018/ca/retail/metro-004000228276.PDF
+./2018/ca/retail/metro-00665414.PDF
+./2018/ca/retail/danielmongrain-20180918.PDF
+./2018/ca/retail/jeancoutu-20180928.PDF
+./2018/us/public transport/bart-43253423.pdf
+./2018/us/public transport/bart-535245634.pdf
+./2018/us/public transport/caltrain-425345423423.pdf
+./2018/us/public transport/bart_20180908_004.pdf
+./2018/us/public transport/bart_20180908_007.pdf
+./2018/us/retail/hm-4352342354.pdf
+./2018/us/retail/walgreens-42543523432.pdf
+./2018/us/retail/safeway-3208524524.pdf
+./2018/us/restaurant/sliders-454353423425.pdf
+./2018/fr/public transport/sncf-453653635.pdf
+./2018/fr/restaurant/monoprix-325435432.pdf
