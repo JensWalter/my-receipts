@@ -27,10 +27,13 @@
 ./2018/de/cafe/EPSON090.PDF
 ./2018/de/cafe/20181024_018.pdf
 ./2018/de/cafe/starbucks-20181103_001.pdf
+./2018/de/cafe/starbucks-20181117.pdf
 ./2018/de/hotel/20180915_THE MADISON HAMBURG.pdf
 ./2018/de/hotel/20181024_Ibis Styles Konstanz.pdf
 ./2018/de/hotel/20181024_THE MADISON HAMBURG.pdf
 ./2018/de/hotel/20181103_THE MADISON HAMBURG.pdf
+./2018/de/hotel/20181117_THE MADISON HAMBURG_001.pdf
+./2018/de/hotel/20181117_THE MADISON HAMBURG.pdf
 ./2018/de/restaurant/jimblock-5453q54.pdf
 ./2018/de/restaurant/jimblock-2435345.pdf
 ./2018/de/restaurant/roses-453453.pdf
@@ -49,6 +52,9 @@
 ./2018/de/restaurant/peterpane_20181027.pdf
 ./2018/de/restaurant/jimblock-20181103.pdf
 ./2018/de/restaurant/morrison-20181103_002.pdf
+./2018/de/restaurant/mcdonalds-20181117.pdf
+./2018/de/restaurant/jimblock-20181117.pdf
+./2018/de/restaurant/swissbreak-20181117.pdf
 ./2018/de/retail/Edeka-764.pdf
 ./2018/de/retail/dm-5376524547654.pdf
 ./2018/de/retail/rewe-35645636345.pdf
@@ -60,6 +66,7 @@
 ./2018/de/retail/EPSON089.PDF
 ./2018/de/retail/mediamarkt-20181026_001.pdf
 ./2018/de/retail/dm-20181103_003.pdf
+./2018/de/retail/wardow-20181112.pdf
 ./2018/de/public transport/hvv-35645436356.pdf
 ./2018/de/public transport/vrs-3576214365.pdf
 ./2018/de/public transport/hvv-2543543543.pdf
