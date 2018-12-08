@@ -34,6 +34,7 @@
 ./2018/de/hotel/20181103_THE MADISON HAMBURG.pdf
 ./2018/de/hotel/20181117_THE MADISON HAMBURG_001.pdf
 ./2018/de/hotel/20181117_THE MADISON HAMBURG.pdf
+./2018/de/hotel/madison_481788.pdf
 ./2018/de/restaurant/jimblock-5453q54.pdf
 ./2018/de/restaurant/jimblock-2435345.pdf
 ./2018/de/restaurant/roses-453453.pdf
@@ -55,6 +56,9 @@
 ./2018/de/restaurant/mcdonalds-20181117.pdf
 ./2018/de/restaurant/jimblock-20181117.pdf
 ./2018/de/restaurant/swissbreak-20181117.pdf
+./2018/de/restaurant/jimblock_20181208_009.pdf
+./2018/de/restaurant/burgerking_20181208_011.pdf
+./2018/de/restaurant/eltarascon_20181208_002.pdf
 ./2018/de/retail/Edeka-764.pdf
 ./2018/de/retail/dm-5376524547654.pdf
 ./2018/de/retail/rewe-35645636345.pdf
@@ -67,6 +71,7 @@
 ./2018/de/retail/mediamarkt-20181026_001.pdf
 ./2018/de/retail/dm-20181103_003.pdf
 ./2018/de/retail/wardow-20181112.pdf
+./2018/de/retail/mediamarkt_230433.pdf
 ./2018/de/public transport/hvv-35645436356.pdf
 ./2018/de/public transport/vrs-3576214365.pdf
 ./2018/de/public transport/hvv-2543543543.pdf
@@ -147,6 +152,11 @@
 ./2018/de/public transport/VPZ9R9.pdf
 ./2018/de/public transport/Y937EM.pdf
 ./2018/de/public transport/YXSHKW.pdf
+./2018/de/public transport/bahn-6GS7GQ.pdf
+./2018/de/public transport/bahn-7WCHS9.pdf
+./2018/de/public transport/bahn-G4SUFW.pdf
+./2018/de/public transport/bahn-X76UT6.pdf
+./2018/de/public transport/bahn-XO4XL1.pdf
 ./2018/ca/hotel/20181024_008.pdf
 ./2018/ca/tourist attraction/seatosky_20180908_005.pdf
 ./2018/ca/tourist attraction/seatosky_20180908_009.pdf
@@ -177,6 +187,15 @@
 ./2018/us/retail/walgreens-42543523432.pdf
 ./2018/us/retail/safeway-3208524524.pdf
 ./2018/us/restaurant/sliders-454353423425.pdf
+./2018/us/restaurant/sw_20181208_3630.pdf
+./2018/us/restaurant/sw_20181208_005.pdf
+./2018/us/restaurant/shakeshack_20181208_004.pdf
+./2018/us/restaurant/beerhaus_20181208_007.pdf
+./2018/us/restaurant/beerhaus_20181208_006.pdf
+./2018/us/restaurant/applebees_8267120140431.pdf
+./2018/us/hotel/venetian_434280912998.pdf
+./2018/us/taxi/taxi_010E33SD547.pdf
+./2018/us/tourist attraction/grandcanyonwest_20181208.pdf
 ./2018/fr/public transport/sncf-453653635.pdf
 ./2018/fr/restaurant/monoprix-325435432.pdf
 ./2017/de/public transport/3ZCCCW.pdf
