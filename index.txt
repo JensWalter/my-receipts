@@ -230,15 +230,50 @@
 ./2017/de/public transport/GBEOH3.pdf
 ./2017/de/public transport/NGTGLY.pdf
 ./2019/de/cafe/starbucks-20190102.pdf
+./2019/de/cafe/starbucks-20190217_002.pdf
+./2019/de/cafe/starbucks-20190323_004.pdf
+./2019/de/cafe/starbucks-20190323_009.pdf
 ./2019/de/restaurant/mrmoto_20190119_001.pdf
 ./2019/de/restaurant/jimblock_20190120.pdf
 ./2019/de/restaurant/jimblock_20190202_002.pdf
 ./2019/de/restaurant/mcdonalds_20190202_001.pdf
+./2019/de/restaurant/mcdonalds-20190217_004.pdf
+./2019/de/restaurant/jimblock-20190217_004.pdf
+./2019/de/restaurant/mcdonalds-20190217_003.pdf
+./2019/de/restaurant/rohmuehle-20190217_002.pdf
+./2019/de/restaurant/deananddavid-20190217_001.pdf
+./2019/de/restaurant/jimblock-20190217.pdf
+./2019/de/restaurant/jimblock-20190223_002.pdf
+./2019/de/restaurant/deananddavid-20190223_001.pdf
+./2019/de/restaurant/peterpane-20190223.pdf
+./2019/de/restaurant/thebird-20190228.pdf
+./2019/de/restaurant/zhazhaburger-20190225.pdf
+./2019/de/restaurant/davidanddean-20190323_007.pdf
+./2019/de/restaurant/jimblock-20190323_008.pdf
+./2019/de/restaurant/jimblock-20190323_010.pdf
+./2019/de/restaurant/kochspielhaus-20190323_005.pdf
+./2019/de/restaurant/mcdonalds-20190323_006.pdf
+./2019/de/restaurant/osteria-20190323.pdf
+./2019/de/restaurant/jimblock-20190326.pdf
+./2019/de/restaurant/osteria-20190420_008.pdf
+./2019/de/restaurant/jimblock-20190402.pdf
+./2019/de/restaurant/mcdonalds-20190420_002.pdf
+./2019/de/restaurant/jimblock-20190416.pdf
 ./2019/de/retail/ansons_20190119.pdf
 ./2019/de/retail/breuninger_20190119_003.pdf
+./2019/de/retail/dm-20190330_002.pdf
+./2019/de/retail/breuninger-20190330_001.pdf
 ./2019/de/hotel/20190119_002.pdf
 ./2019/de/hotel/20190202_THE MADISON HAMBURG_001.pdf
 ./2019/de/hotel/20190202_THE MADISON HAMBURG.pdf
+./2019/de/hotel/madison-489347.pdf
+./2019/de/hotel/madison-490057.pdf
+./2019/de/hotel/motelone-524544306.pdf
+./2019/de/hotel/madison-490969.pdf
+./2019/de/hotel/madison-493304.pdf
+./2019/de/hotel/madison-492602.pdf
+./2019/de/hotel/citadines-20190331_Invoice.pdf
+./2019/de/hotel/madison-496987.pdf
 ./2019/de/public transport/bahn-DSK7YS.pdf
 ./2019/de/public transport/bahn-F681BE.pdf
 ./2019/de/public transport/bahn-NP28SZ.pdf
@@ -246,3 +281,27 @@
 ./2019/de/public transport/bahn-WPYCXF.pdf
 ./2019/de/public transport/bahn-ZT2B67.pdf
 ./2019/de/public transport/bahn-WQYUTC.pdf
+./2019/de/public transport/bahn-1QXDOG.pdf
+./2019/de/public transport/bahn-3GRXP2.pdf
+./2019/de/public transport/bahn-OFV9MR.pdf
+./2019/de/public transport/bahn-Y11TNC.pdf
+./2019/de/public transport/bahn-82CTAK.pdf
+./2019/de/public transport/bahn-D3ERDQ.pdf
+./2019/de/public transport/bahn-HZ64OO.pdf
+./2019/lt/public transport/vilniausmiestro-20190323.pdf
+./2019/lt/restaurant/vilniausbaras-20190323.pdf
+./2019/lt/restaurant/delano-20190323.pdf
+./2019/lt/restaurant/macdonalds-20190323.pdf
+./2019/us/public transport/bart-18102616.pdf
+./2019/us/public transport/bart-16040508.pdf
+./2019/us/restaurant/dennys-20190420_013.pdf
+./2019/us/restaurant/cowgirlcreamery-20190420_010.pdf
+./2019/us/restaurant/dennys-20190420_009.pdf
+./2019/us/restaurant/superduperburger-20190420_008.pdf
+./2019/us/restaurant/roxanne-596018.pdf
+./2019/us/hotel/mystic-106247969.pdf
+./2019/us/retail/cvs-20190420_012.pdf
+./2019/us/retail/uniqlo-20190420_007.pdf
+./2019/us/retail/walgreens-20190420_006.pdf
+./2019/us/retail/oldnavy-059343150871201904133755.pdf
+./2019/us/retail/wholefoods-20190420_004.pdf
