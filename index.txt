@@ -259,10 +259,16 @@
 ./2019/de/restaurant/jimblock-20190402.pdf
 ./2019/de/restaurant/mcdonalds-20190420_002.pdf
 ./2019/de/restaurant/jimblock-20190416.pdf
+./2019/de/restaurant/mcdonalds_20190422.pdf
+./2019/de/restaurant/mcdonalds_20190428.pdf
+./2019/de/restaurant/roses_79.pdf
+./2019/de/restaurant/dhillons_20190418.pdf
+./2019/de/restaurant/deananddavid_185229.pdf
 ./2019/de/retail/ansons_20190119.pdf
 ./2019/de/retail/breuninger_20190119_003.pdf
 ./2019/de/retail/dm-20190330_002.pdf
 ./2019/de/retail/breuninger-20190330_001.pdf
+./2019/de/retail/mediamarkt_40731877.pdf
 ./2019/de/hotel/20190119_002.pdf
 ./2019/de/hotel/20190202_THE MADISON HAMBURG_001.pdf
 ./2019/de/hotel/20190202_THE MADISON HAMBURG.pdf
@@ -274,6 +280,9 @@
 ./2019/de/hotel/madison-492602.pdf
 ./2019/de/hotel/citadines-20190331_Invoice.pdf
 ./2019/de/hotel/madison-496987.pdf
+./2019/de/hotel/citadines_08372561.pdf
+./2019/de/hotel/hampton_24361.pdf
+./2019/de/hotel/madison_497810.pdf
 ./2019/de/public transport/bahn-DSK7YS.pdf
 ./2019/de/public transport/bahn-F681BE.pdf
 ./2019/de/public transport/bahn-NP28SZ.pdf
@@ -288,20 +297,62 @@
 ./2019/de/public transport/bahn-82CTAK.pdf
 ./2019/de/public transport/bahn-D3ERDQ.pdf
 ./2019/de/public transport/bahn-HZ64OO.pdf
+./2019/de/flights/eurowings-NFCZMQ.pdf
+./2019/de/flights/norwegian_KPE6BN.pdf
+./2019/de/flights/norwegian_KQMDM9.pdf
+./2019/de/flights/ryanair-FR2733.pdf
 ./2019/lt/public transport/vilniausmiestro-20190323.pdf
 ./2019/lt/restaurant/vilniausbaras-20190323.pdf
 ./2019/lt/restaurant/delano-20190323.pdf
 ./2019/lt/restaurant/macdonalds-20190323.pdf
 ./2019/us/public transport/bart-18102616.pdf
 ./2019/us/public transport/bart-16040508.pdf
+./2019/us/public transport/bart_64514-18051616-2.pdf
+./2019/us/public transport/bart_64514-18051616.pdf
+./2019/us/public transport/caltrain_20190510.pdf
 ./2019/us/restaurant/dennys-20190420_013.pdf
 ./2019/us/restaurant/cowgirlcreamery-20190420_010.pdf
 ./2019/us/restaurant/dennys-20190420_009.pdf
 ./2019/us/restaurant/superduperburger-20190420_008.pdf
 ./2019/us/restaurant/roxanne-596018.pdf
+./2019/us/restaurant/dennys_318879.pdf
+./2019/us/restaurant/fiveguys_aaaxwhncacb5.pdf
+./2019/us/restaurant/fiveguys_aaaxwhnjaebm.pdf
+./2019/us/restaurant/moz_208095.pdf
+./2019/us/restaurant/roxannes_599355.pdf
+./2019/us/restaurant/superduper_20355.pdf
+./2019/us/restaurant/superduper_20451.pdf
+./2019/us/restaurant/sudamkorean_20190507.pdf
 ./2019/us/hotel/mystic-106247969.pdf
+./2019/us/hotel/hilton_3098434064.pdf
+./2019/us/hotel/countryinn_30878.pdf
 ./2019/us/retail/cvs-20190420_012.pdf
 ./2019/us/retail/uniqlo-20190420_007.pdf
 ./2019/us/retail/walgreens-20190420_006.pdf
 ./2019/us/retail/oldnavy-059343150871201904133755.pdf
 ./2019/us/retail/wholefoods-20190420_004.pdf
+./2019/us/retail/safeway_40001555198.pdf
+./2019/us/retail/safeway_85001973167.pdf
+./2019/us/retail/walgreens_20190510.pdf
+./2019/us/retail/walgreens_20190512.pdf
+./2019/us/retail/wholefoods_500100364.pdf
+./2019/us/retail/oldnavy_059340204213201905110270.pdf
+./2019/us/cafe/starbucks_731564.pdf
+./2019/se/public transport/arlandaexpress_0000826085.pdf
+./2019/se/public transport/arlandaexpress_0000875553.pdf
+./2019/se/hotel/scandic_808219768.pdf
+./2019/se/restaurant/maxburger_6206.pdf
+./2019/se/restaurant/maxburger_6889.pdf
+./2019/se/restaurant/maxburger_6985.pdf
+./2019/se/restaurant/maxburger_492653.pdf
+./2019/se/restaurant/eatmarket_42174.pdf
+./2019/se/restaurant/burgerking_8448.pdf
+./2019/se/restaurant/kebabhouse_100416229.pdf
+./2019/se/retail/apoteketcwscheele_37653.pdf
+./2019/se/retail/apotheketcwscheele_39368.pdf
+./2019/se/retail/elitvatten_20190504.pdf
+./2019/se/retail/coop_0216332.pdf
+./2019/ee/hotel/swissotel_377904.pdf
+./2019/ee/cafe/caffeine_1935658.pdf
+./2019/ee/cafe/baubamaja_12305124.pdf
+./2019/ee/restaurant/hesburger_645907.pdf
