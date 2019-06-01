@@ -233,6 +233,9 @@
 ./2019/de/cafe/starbucks-20190217_002.pdf
 ./2019/de/cafe/starbucks-20190323_004.pdf
 ./2019/de/cafe/starbucks-20190323_009.pdf
+./2019/de/cafe/starbucks-20190519.pdf
+./2019/de/cafe/starbucks-20190521.pdf
+./2019/de/cafe/starbucks-20190525.pdf
 ./2019/de/restaurant/mrmoto_20190119_001.pdf
 ./2019/de/restaurant/jimblock_20190120.pdf
 ./2019/de/restaurant/jimblock_20190202_002.pdf
@@ -264,6 +267,9 @@
 ./2019/de/restaurant/roses_79.pdf
 ./2019/de/restaurant/dhillons_20190418.pdf
 ./2019/de/restaurant/deananddavid_185229.pdf
+./2019/de/restaurant/andria-20190529.pdf
+./2019/de/restaurant/jimblock-20190523.pdf
+./2019/de/restaurant/mcdonalds-20190526.pdf
 ./2019/de/retail/ansons_20190119.pdf
 ./2019/de/retail/breuninger_20190119_003.pdf
 ./2019/de/retail/dm-20190330_002.pdf
@@ -297,6 +303,7 @@
 ./2019/de/public transport/bahn-82CTAK.pdf
 ./2019/de/public transport/bahn-D3ERDQ.pdf
 ./2019/de/public transport/bahn-HZ64OO.pdf
+./2019/de/public transport/bahn-190521752786.pdf
 ./2019/de/flights/eurowings-NFCZMQ.pdf
 ./2019/de/flights/norwegian_KPE6BN.pdf
 ./2019/de/flights/norwegian_KQMDM9.pdf
@@ -352,6 +359,7 @@
 ./2019/se/retail/apotheketcwscheele_39368.pdf
 ./2019/se/retail/elitvatten_20190504.pdf
 ./2019/se/retail/coop_0216332.pdf
+./2019/se/tourist attraction/tekniska_1030366.pdf
 ./2019/ee/hotel/swissotel_377904.pdf
 ./2019/ee/cafe/caffeine_1935658.pdf
 ./2019/ee/cafe/baubamaja_12305124.pdf
