@@ -270,11 +270,18 @@
 ./2019/de/restaurant/andria-20190529.pdf
 ./2019/de/restaurant/jimblock-20190523.pdf
 ./2019/de/restaurant/mcdonalds-20190526.pdf
+./2019/de/restaurant/peterpane-20190622_001.pdf
+./2019/de/restaurant/osteria-20190609.pdf
+./2019/de/restaurant/jimblock-20190612.pdf
+./2019/de/restaurant/jimblock-20190622.pdf
+./2019/de/restaurant/mcdonalds-20190614.pdf
+./2019/de/restaurant/kolaile_20190608.pdf
 ./2019/de/retail/ansons_20190119.pdf
 ./2019/de/retail/breuninger_20190119_003.pdf
 ./2019/de/retail/dm-20190330_002.pdf
 ./2019/de/retail/breuninger-20190330_001.pdf
 ./2019/de/retail/mediamarkt_40731877.pdf
+./2019/de/retail/galeria-04335647394318.pdf
 ./2019/de/hotel/20190119_002.pdf
 ./2019/de/hotel/20190202_THE MADISON HAMBURG_001.pdf
 ./2019/de/hotel/20190202_THE MADISON HAMBURG.pdf
@@ -289,6 +296,9 @@
 ./2019/de/hotel/citadines_08372561.pdf
 ./2019/de/hotel/hampton_24361.pdf
 ./2019/de/hotel/madison_497810.pdf
+./2019/de/hotel/madison-5036666.pdf
+./2019/de/hotel/hampton-25789.pdf
+./2019/de/hotel/madison-502875.pdf
 ./2019/de/public transport/bahn-DSK7YS.pdf
 ./2019/de/public transport/bahn-F681BE.pdf
 ./2019/de/public transport/bahn-NP28SZ.pdf
@@ -304,6 +314,12 @@
 ./2019/de/public transport/bahn-D3ERDQ.pdf
 ./2019/de/public transport/bahn-HZ64OO.pdf
 ./2019/de/public transport/bahn-190521752786.pdf
+./2019/de/public transport/bahn-ZHKBHV.pdf
+./2019/de/public transport/bahn-4RYGZD.pdf
+./2019/de/public transport/bahn-CU6YC7.pdf
+./2019/de/public transport/bahn-KF3H7Y.pdf
+./2019/de/public transport/bahn-ND63TR.pdf
+./2019/de/public transport/bahn-TRY182.pdf
 ./2019/de/flights/eurowings-NFCZMQ.pdf
 ./2019/de/flights/norwegian_KPE6BN.pdf
 ./2019/de/flights/norwegian_KQMDM9.pdf
