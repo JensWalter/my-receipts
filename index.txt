@@ -236,6 +236,7 @@
 ./2019/de/cafe/starbucks-20190519.pdf
 ./2019/de/cafe/starbucks-20190521.pdf
 ./2019/de/cafe/starbucks-20190525.pdf
+./2019/de/cafe/starbucks-20190720_013.pdf
 ./2019/de/restaurant/mrmoto_20190119_001.pdf
 ./2019/de/restaurant/jimblock_20190120.pdf
 ./2019/de/restaurant/jimblock_20190202_002.pdf
@@ -276,6 +277,7 @@
 ./2019/de/restaurant/jimblock-20190622.pdf
 ./2019/de/restaurant/mcdonalds-20190614.pdf
 ./2019/de/restaurant/kolaile_20190608.pdf
+./2019/de/restaurant/mcdonalds-20190720_014.pdf
 ./2019/de/retail/ansons_20190119.pdf
 ./2019/de/retail/breuninger_20190119_003.pdf
 ./2019/de/retail/dm-20190330_002.pdf
@@ -299,6 +301,9 @@
 ./2019/de/hotel/madison-5036666.pdf
 ./2019/de/hotel/hampton-25789.pdf
 ./2019/de/hotel/madison-502875.pdf
+./2019/de/hotel/madison_folio_g_cp_efolio5895702.pdf
+./2019/de/hotel/madison_folio_g_cp_efolio5895707.pdf
+./2019/de/hotel/mercure-37816396.pdf
 ./2019/de/public transport/bahn-DSK7YS.pdf
 ./2019/de/public transport/bahn-F681BE.pdf
 ./2019/de/public transport/bahn-NP28SZ.pdf
@@ -320,6 +325,17 @@
 ./2019/de/public transport/bahn-KF3H7Y.pdf
 ./2019/de/public transport/bahn-ND63TR.pdf
 ./2019/de/public transport/bahn-TRY182.pdf
+./2019/de/public transport/bahn-9Z4ZKL.pdf
+./2019/de/public transport/bahn-AXE1QT.pdf
+./2019/de/public transport/bahn-FZ8Z8S.pdf
+./2019/de/public transport/bahn-RRGLTX.pdf
+./2019/de/public transport/bahn-PA9QOU.pdf
+./2019/de/public transport/bahn-OCZBWQ.pdf
+./2019/de/public transport/bahn-OAFVKK.pdf
+./2019/de/public transport/bahn-K1XZ9A.pdf
+./2019/de/public transport/bahn-UKU46K.pdf
+./2019/de/public transport/bahn-WB3D4K.pdf
+./2019/de/public transport/bahn-ZD7YDQ.pdf
 ./2019/de/flights/eurowings-NFCZMQ.pdf
 ./2019/de/flights/norwegian_KPE6BN.pdf
 ./2019/de/flights/norwegian_KQMDM9.pdf
@@ -380,3 +396,20 @@
 ./2019/ee/cafe/caffeine_1935658.pdf
 ./2019/ee/cafe/baubamaja_12305124.pdf
 ./2019/ee/restaurant/hesburger_645907.pdf
+./2019/hk/hotel/ozo-5056563.pdf
+./2019/hk/cafe/20190720_001.pdf
+./2019/hk/cafe/20190720_002.pdf
+./2019/hk/cafe/20190720_005.pdf
+./2019/hk/cafe/20190720_009.pdf
+./2019/hk/cafe/20190720_015.pdf
+./2019/hk/cafe/20190720_011.pdf
+./2019/hk/cafe/20190720_018.pdf
+./2019/hk/cafe/20190720_017.pdf
+./2019/hk/restaurant/20190720_003.pdf
+./2019/hk/restaurant/20190720_004.pdf
+./2019/hk/restaurant/20190720_008.pdf
+./2019/hk/restaurant/20190720_007.pdf
+./2019/hk/restaurant/20190720_006.pdf
+./2019/hk/restaurant/20190720_012.pdf
+./2019/hk/restaurant/20190720.pdf
+./2019/hk/retail/20190720_010.pdf
