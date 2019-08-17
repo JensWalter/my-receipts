@@ -278,12 +278,25 @@
 ./2019/de/restaurant/mcdonalds-20190614.pdf
 ./2019/de/restaurant/kolaile_20190608.pdf
 ./2019/de/restaurant/mcdonalds-20190720_014.pdf
+./2019/de/restaurant/deananddavid_20190810_001.pdf
+./2019/de/restaurant/jimblock_20190817_001.pdf
+./2019/de/restaurant/mcdonalds_20190810_002.pdf
+./2019/de/restaurant/jimblock_20190803.pdf
+./2019/de/restaurant/mcdonalds_20190810.pdf
+./2019/de/restaurant/mcdonalds_20190817.pdf
+./2019/de/restaurant/noelsballroom_20190817_001.pdf
+./2019/de/restaurant/deananddavid_20190803_001.pdf
 ./2019/de/retail/ansons_20190119.pdf
 ./2019/de/retail/breuninger_20190119_003.pdf
 ./2019/de/retail/dm-20190330_002.pdf
 ./2019/de/retail/breuninger-20190330_001.pdf
 ./2019/de/retail/mediamarkt_40731877.pdf
 ./2019/de/retail/galeria-04335647394318.pdf
+./2019/de/retail/deichmann_20190803_003.pdf
+./2019/de/retail/dm_20190803_006.pdf
+./2019/de/retail/frischeparadis_20190803_005.pdf
+./2019/de/retail/galeria_20190803_004.pdf
+./2019/de/retail/saturn_20190817_002.pdf
 ./2019/de/hotel/20190119_002.pdf
 ./2019/de/hotel/20190202_THE MADISON HAMBURG_001.pdf
 ./2019/de/hotel/20190202_THE MADISON HAMBURG.pdf
@@ -304,6 +317,10 @@
 ./2019/de/hotel/madison_folio_g_cp_efolio5895702.pdf
 ./2019/de/hotel/madison_folio_g_cp_efolio5895707.pdf
 ./2019/de/hotel/mercure-37816396.pdf
+./2019/de/hotel/madison_folio_g_cp_efolio5991896.pdf
+./2019/de/hotel/madison_folio_g_cp_efolio5945547.pdf
+./2019/de/hotel/madison_folio_g_cp_efolio5972171.pdf
+./2019/de/hotel/madison_folio_g_cp_efolio5976009.pdf
 ./2019/de/public transport/bahn-DSK7YS.pdf
 ./2019/de/public transport/bahn-F681BE.pdf
 ./2019/de/public transport/bahn-NP28SZ.pdf
@@ -336,6 +353,15 @@
 ./2019/de/public transport/bahn-UKU46K.pdf
 ./2019/de/public transport/bahn-WB3D4K.pdf
 ./2019/de/public transport/bahn-ZD7YDQ.pdf
+./2019/de/public transport/bahn-6M824B.pdf
+./2019/de/public transport/bahn-YQPTKX.pdf
+./2019/de/public transport/bahn-HW38FP.pdf
+./2019/de/public transport/bahn-FSMFET.pdf
+./2019/de/public transport/bahn-BXSM6Z.pdf
+./2019/de/public transport/bahn-7YS6PW.pdf
+./2019/de/public transport/bahn-2V8616.pdf
+./2019/de/public transport/bahn-4L9ORV.pdf
+./2019/de/public transport/bahn-Z41MZO.pdf
 ./2019/de/flights/eurowings-NFCZMQ.pdf
 ./2019/de/flights/norwegian_KPE6BN.pdf
 ./2019/de/flights/norwegian_KQMDM9.pdf
