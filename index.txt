@@ -286,6 +286,10 @@
 ./2019/de/restaurant/mcdonalds_20190817.pdf
 ./2019/de/restaurant/noelsballroom_20190817_001.pdf
 ./2019/de/restaurant/deananddavid_20190803_001.pdf
+./2019/de/restaurant/jimblock_20190904.pdf
+./2019/de/restaurant/losteria_20190825.pdf
+./2019/de/restaurant/losteria_20190727.pdf
+./2019/de/restaurant/mcdonalds_20190901.pdf
 ./2019/de/retail/ansons_20190119.pdf
 ./2019/de/retail/breuninger_20190119_003.pdf
 ./2019/de/retail/dm-20190330_002.pdf
@@ -297,6 +301,7 @@
 ./2019/de/retail/frischeparadis_20190803_005.pdf
 ./2019/de/retail/galeria_20190803_004.pdf
 ./2019/de/retail/saturn_20190817_002.pdf
+./2019/de/retail/rewe_20190902.pdf
 ./2019/de/hotel/20190119_002.pdf
 ./2019/de/hotel/20190202_THE MADISON HAMBURG_001.pdf
 ./2019/de/hotel/20190202_THE MADISON HAMBURG.pdf
@@ -321,6 +326,7 @@
 ./2019/de/hotel/madison_folio_g_cp_efolio5945547.pdf
 ./2019/de/hotel/madison_folio_g_cp_efolio5972171.pdf
 ./2019/de/hotel/madison_folio_g_cp_efolio5976009.pdf
+./2019/de/hotel/hampton_28646.pdf
 ./2019/de/public transport/bahn-DSK7YS.pdf
 ./2019/de/public transport/bahn-F681BE.pdf
 ./2019/de/public transport/bahn-NP28SZ.pdf
@@ -362,10 +368,12 @@
 ./2019/de/public transport/bahn-2V8616.pdf
 ./2019/de/public transport/bahn-4L9ORV.pdf
 ./2019/de/public transport/bahn-Z41MZO.pdf
+./2019/de/public transport/bahn-HVR126.pdf
 ./2019/de/flights/eurowings-NFCZMQ.pdf
 ./2019/de/flights/norwegian_KPE6BN.pdf
 ./2019/de/flights/norwegian_KQMDM9.pdf
 ./2019/de/flights/ryanair-FR2733.pdf
+./2019/de/miscellaneous/aral_20190901.pdf
 ./2019/lt/public transport/vilniausmiestro-20190323.pdf
 ./2019/lt/restaurant/vilniausbaras-20190323.pdf
 ./2019/lt/restaurant/delano-20190323.pdf
@@ -439,3 +447,20 @@
 ./2019/hk/restaurant/20190720_012.pdf
 ./2019/hk/restaurant/20190720.pdf
 ./2019/hk/retail/20190720_010.pdf
+./2019/uk/hotel/Leonardo_362412213.pdf
+./2019/uk/restaurant/fiveguys_20190829.pdf
+./2019/uk/restaurant/gourmetmash_20190830.pdf
+./2019/uk/restaurant/haymarketedi_20190826.pdf
+./2019/uk/restaurant/lebowski_20190828.pdf
+./2019/uk/restaurant/chopstix_20190828.pdf
+./2019/uk/restaurant/brewdogs_20190827.pdf
+./2019/uk/retail/coop_20190829.pdf
+./2019/uk/cafe/pret_20190827.pdf
+./2019/uk/cafe/caffenero_20190831.pdf
+./2019/uk/tourist attraction/obandistillery_20190830.pdf
+./2019/uk/tourist attraction/urquhartcastle_20190829.pdf
+./2019/uk/tourist attraction/castle_20190827.pdf
+./2019/uk/miscellaneous/horizonparking_20190820.pdf
+./2019/uk/miscellaneous/rosestreet_20190829.pdf
+./2019/uk/miscellaneous/slateford_20190830.pdf
+./2019/uk/miscellaneous/shell_20190839.pdf
