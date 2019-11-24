@@ -238,6 +238,9 @@
 ./2019/de/cafe/starbucks-20190525.pdf
 ./2019/de/cafe/starbucks-20190720_013.pdf
 ./2019/de/cafe/coffeefellow-20191020.pdf
+./2019/de/cafe/kamps_20191116_002.pdf
+./2019/de/cafe/kamps_20191124_001.pdf
+./2019/de/cafe/vorort_20191124_002.pdf
 ./2019/de/restaurant/jimblock_20190202_002.pdf
 ./2019/de/restaurant/jimblock_20190120.pdf
 ./2019/de/restaurant/mcdonalds_20190202_001.pdf
@@ -305,6 +308,13 @@
 ./2019/de/restaurant/phoviet_20191019_001.pdf
 ./2019/de/restaurant/roses_20191019_002.pdf
 ./2019/de/restaurant/schnizz-20191026_001.pdf
+./2019/de/restaurant/andria_20191116_001.pdf
+./2019/de/restaurant/chinarestaurant_20191116_003.pdf
+./2019/de/restaurant/losteria_20191116_004.pdf
+./2019/de/restaurant/mrmoto_20191116.pdf
+./2019/de/restaurant/jimblock_20191123.pdf
+./2019/de/restaurant/mcdonalds_20191124_003.pdf
+./2019/de/restaurant/peterpane_20191124.pdf
 ./2019/de/retail/ansons_20190119.pdf
 ./2019/de/retail/breuninger_20190119_003.pdf
 ./2019/de/retail/breuninger-20190330_001.pdf
@@ -344,6 +354,9 @@
 ./2019/de/hotel/madison_folio_g_cp_efolio5991896.pdf
 ./2019/de/hotel/hampton_28646.pdf
 ./2019/de/hotel/premierinn_GABCI19014325.pdf
+./2019/de/hotel/hampton_20190411.pdf
+./2019/de/hotel/motelone_20191111.pdf
+./2019/de/hotel/motelone_20191118.pdf
 ./2019/de/public transport/bahn-PEE32A.pdf
 ./2019/de/public transport/bahn-DSK7YS.pdf
 ./2019/de/public transport/bahn-F681BE.pdf
@@ -482,6 +495,7 @@
 ./2019/uk/miscellaneous/slateford_20190830.pdf
 ./2019/uk/miscellaneous/shell_20190839.pdf
 ./2019/uk/public transport/editram_20190916.pdf
+./2019/uk/public transport/tram_20191116_006.pdf
 ./2019/nl/hotel/leonardo_03040575.pdf
 ./2019/nl/public transport/train_20191019_008.pdf
 ./2019/nl/public transport/train_20191019_018.pdf
@@ -512,3 +526,4 @@
 ./2019/es/tourist attraction/patrimonio_20190922_006.pdf
 ./2019/es/tourist attraction/museoreinasofia_20190922_004.pdf
 ./2019/es/tourist attraction/museodelferrocarril_20190922_007.pdf
+./2019/es/public transport/subway_20190916.pdf
