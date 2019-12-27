@@ -315,6 +315,8 @@
 ./2019/de/restaurant/jimblock_20191123.pdf
 ./2019/de/restaurant/mcdonalds_20191124_003.pdf
 ./2019/de/restaurant/peterpane_20191124.pdf
+./2019/de/restaurant/eltarascon-20191221.pdf
+./2019/de/restaurant/mcdonalds-20191221.pdf
 ./2019/de/retail/ansons_20190119.pdf
 ./2019/de/retail/breuninger_20190119_003.pdf
 ./2019/de/retail/breuninger-20190330_001.pdf
@@ -357,6 +359,8 @@
 ./2019/de/hotel/hampton_20190411.pdf
 ./2019/de/hotel/motelone_20191111.pdf
 ./2019/de/hotel/motelone_20191118.pdf
+./2019/de/hotel/moxy_20191221_006.pdf
+./2019/de/hotel/moxy-20191221_007.pdf
 ./2019/de/public transport/bahn-PEE32A.pdf
 ./2019/de/public transport/bahn-DSK7YS.pdf
 ./2019/de/public transport/bahn-F681BE.pdf
@@ -399,6 +403,21 @@
 ./2019/de/public transport/bahn-2V8616.pdf
 ./2019/de/public transport/bahn-4L9ORV.pdf
 ./2019/de/public transport/bahn-HVR126.pdf
+./2019/de/public transport/bahn-YB9X4L.pdf
+./2019/de/public transport/bahn-BDO28U.pdf
+./2019/de/public transport/bahn-BRA4ZS.pdf
+./2019/de/public transport/bahn-M1D2SA.pdf
+./2019/de/public transport/bahn-PCOSXT.pdf
+./2019/de/public transport/bahn-X41PAT.pdf
+./2019/de/public transport/bahn-VERCW9.pdf
+./2019/de/public transport/bahn-QUSYCY.pdf
+./2019/de/public transport/bahn-4L9BE9.pdf
+./2019/de/public transport/bahn-A2XKZM.pdf
+./2019/de/public transport/bahn-YFG7VG.pdf
+./2019/de/public transport/bahn-TT13TQ.pdf
+./2019/de/public transport/bahn-PNWLSA.pdf
+./2019/de/public transport/bahn-NDUKNT.pdf
+./2019/de/public transport/bahn-GOT7KQ.pdf
 ./2019/de/flights/norwegian_KPE6BN.pdf
 ./2019/de/flights/eurowings-NFCZMQ.pdf
 ./2019/de/flights/norwegian_KQMDM9.pdf
@@ -426,6 +445,9 @@
 ./2019/us/restaurant/moz_208095.pdf
 ./2019/us/restaurant/fiveguys_aaaxwhncacb5.pdf
 ./2019/us/restaurant/superduper_20355.pdf
+./2019/us/restaurant/inout-20191221_005.pdf
+./2019/us/restaurant/cheesecake-20191221_003.pdf
+./2019/us/restaurant/panda-20191221_004.pdf
 ./2019/us/hotel/mystic-106247969.pdf
 ./2019/us/hotel/countryinn_30878.pdf
 ./2019/us/hotel/hilton_3098434064.pdf
@@ -440,6 +462,10 @@
 ./2019/us/retail/oldnavy_059340204213201905110270.pdf
 ./2019/us/retail/safeway_40001555198.pdf
 ./2019/us/retail/walgreens_20190512.pdf
+./2019/us/retail/walgreens-20191207.pdf
+./2019/us/retail/walgreens-20191221_009.pdf
+./2019/us/retail/cocacola-20191221_001.pdf
+./2019/us/retail/oldnavy-20191221_002.pdf
 ./2019/us/cafe/starbucks_731564.pdf
 ./2019/se/public transport/arlandaexpress_0000875553.pdf
 ./2019/se/public transport/arlandaexpress_0000826085.pdf
