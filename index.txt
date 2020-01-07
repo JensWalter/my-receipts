@@ -451,6 +451,7 @@
 ./2019/us/hotel/mystic-106247969.pdf
 ./2019/us/hotel/countryinn_30878.pdf
 ./2019/us/hotel/hilton_3098434064.pdf
+./2019/us/hotel/venetian-437991869934.pdf
 ./2019/us/retail/wholefoods-20190420_004.pdf
 ./2019/us/retail/uniqlo-20190420_007.pdf
 ./2019/us/retail/walgreens-20190420_006.pdf
@@ -553,3 +554,5 @@
 ./2019/es/tourist attraction/museoreinasofia_20190922_004.pdf
 ./2019/es/tourist attraction/museodelferrocarril_20190922_007.pdf
 ./2019/es/public transport/subway_20190916.pdf
+./2020/de/cafe/luise-20200102.pdf
+./2020/de/miscellaneous/cinestar-20200102.pdf
