@@ -317,6 +317,7 @@
 ./2019/de/restaurant/peterpane_20191124.pdf
 ./2019/de/restaurant/eltarascon-20191221.pdf
 ./2019/de/restaurant/mcdonalds-20191221.pdf
+./2019/de/restaurant/jimblock_20191128.pdf
 ./2019/de/retail/ansons_20190119.pdf
 ./2019/de/retail/breuninger_20190119_003.pdf
 ./2019/de/retail/breuninger-20190330_001.pdf
@@ -448,6 +449,9 @@
 ./2019/us/restaurant/inout-20191221_005.pdf
 ./2019/us/restaurant/cheesecake-20191221_003.pdf
 ./2019/us/restaurant/panda-20191221_004.pdf
+./2019/us/restaurant/outback-20191204.pdf
+./2019/us/restaurant/dennys-20191204.pdf
+./2019/us/restaurant/fatburger-20191203.pdf
 ./2019/us/hotel/mystic-106247969.pdf
 ./2019/us/hotel/countryinn_30878.pdf
 ./2019/us/hotel/hilton_3098434064.pdf
@@ -468,6 +472,7 @@
 ./2019/us/retail/cocacola-20191221_001.pdf
 ./2019/us/retail/oldnavy-20191221_002.pdf
 ./2019/us/cafe/starbucks_731564.pdf
+./2019/us/tourist attraction/topgold-20191203.pdf
 ./2019/se/public transport/arlandaexpress_0000875553.pdf
 ./2019/se/public transport/arlandaexpress_0000826085.pdf
 ./2019/se/hotel/scandic_808219768.pdf
@@ -555,4 +560,21 @@
 ./2019/es/tourist attraction/museodelferrocarril_20190922_007.pdf
 ./2019/es/public transport/subway_20190916.pdf
 ./2020/de/cafe/luise-20200102.pdf
+./2020/de/cafe/pendel-20200125.pdf
 ./2020/de/miscellaneous/cinestar-20200102.pdf
+./2020/de/restaurant/deananddavid-20200928.pdf
+./2020/de/restaurant/jimblock_20200116.pdf
+./2020/de/restaurant/jimblock-20200130.pdf
+./2020/de/restaurant/mcdonalds-20200119.pdf
+./2020/de/restaurant/mcdonalds-20200126.pdf
+./2020/de/restaurant/osteria-20200125.pdf
+./2020/de/hotel/premierinn-20200117.pdf
+./2020/de/hotel/premierinn-GABCI20000791.pdf
+./2020/de/public transport/bahn-6QBUR1.pdf
+./2020/de/public transport/bahn-7PAYXR.pdf
+./2020/de/public transport/bahn-17B6DU.pdf
+./2020/de/public transport/bahn-34QQAW.pdf
+./2020/de/public transport/bahn-E7QH8B.pdf
+./2020/de/public transport/bahn-LP9Z99.pdf
+./2020/de/public transport/bahn-TH9ZKM.pdf
+./2020/de/public transport/bahn-VDCSQA.pdf
