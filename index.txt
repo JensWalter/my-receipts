@@ -561,15 +561,37 @@
 ./2019/es/public transport/subway_20190916.pdf
 ./2020/de/cafe/luise-20200102.pdf
 ./2020/de/cafe/pendel-20200125.pdf
+./2020/de/cafe/pendel-20200216_001.pdf
+./2020/de/cafe/pendel-20200307_008.pdf
+./2020/de/cafe/pendel-20200315_003.pdf
+./2020/de/cafe/kamps-20200314_001.pdf
+./2020/de/cafe/kamps-20200315_002.pdf
 ./2020/de/miscellaneous/cinestar-20200102.pdf
+./2020/de/miscellaneous/saturn-20200216_003.pdf
+./2020/de/miscellaneous/mediamarkt-20200314_003.pdf
+./2020/de/miscellaneous/ikea-20200314_004.pdf
+./2020/de/miscellaneous/unterwegs-20200314_002.pdf
 ./2020/de/restaurant/deananddavid-20200928.pdf
 ./2020/de/restaurant/jimblock_20200116.pdf
 ./2020/de/restaurant/jimblock-20200130.pdf
 ./2020/de/restaurant/mcdonalds-20200119.pdf
 ./2020/de/restaurant/mcdonalds-20200126.pdf
 ./2020/de/restaurant/osteria-20200125.pdf
+./2020/de/restaurant/agustiner-20200314.pdf
+./2020/de/restaurant/dimsum-20200216.pdf
+./2020/de/restaurant/jimblock-20200216_004.pdf
+./2020/de/restaurant/jimblock-20200307_009.pdf
+./2020/de/restaurant/jimblock-20200315.pdf
+./2020/de/restaurant/mcdonalds-20200216_005.pdf
+./2020/de/restaurant/mcdonalds-20200216_006.pdf
+./2020/de/restaurant/mcdonalds-20200307.pdf
+./2020/de/restaurant/mcdonalds-20200501.pdf
+./2020/de/restaurant/jimblock-20200307_003.pdf
+./2020/de/restaurant/osteria-20200216_002.pdf
+./2020/de/restaurant/osteria-20200315_001.pdf
 ./2020/de/hotel/premierinn-20200117.pdf
 ./2020/de/hotel/premierinn-GABCI20000791.pdf
+./2020/de/hotel/premierinn-20200308.pdf
 ./2020/de/public transport/bahn-6QBUR1.pdf
 ./2020/de/public transport/bahn-7PAYXR.pdf
 ./2020/de/public transport/bahn-17B6DU.pdf
@@ -578,3 +600,8 @@
 ./2020/de/public transport/bahn-LP9Z99.pdf
 ./2020/de/public transport/bahn-TH9ZKM.pdf
 ./2020/de/public transport/bahn-VDCSQA.pdf
+./2020/pl/restaurant/mandu-20200307_002.pdf
+./2020/pl/restaurant/mandu-20200307_007.pdf
+./2020/pl/restaurant/thaiwok-20200307_004.pdf
+./2020/pl/cafe/starbucks-20200307_005.pdf
+./2020/pl/cafe/costa-20200307_001.pdf
