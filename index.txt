@@ -671,6 +671,9 @@
 ./2021/de/burgerking-20210321.pdf
 ./2021/de/chinawhite-20211116.pdf
 ./2021/de/coffeefellows-20210702_004.pdf
+./2021/de/cyberport-20210103.pdf
+./2021/de/cyberport-20210403_Rechnung.pdf
+./2021/de/cyberport-20210813_Rechnung.pdf
 ./2021/de/decathlon-20210717.pdf
 ./2021/de/decathlon-20210819.pdf
 ./2021/de/deichmann-20210717_003.pdf
@@ -694,6 +697,7 @@
 ./2021/de/luise-20210614.pdf
 ./2021/de/luise-20210912.pdf
 ./2021/de/mcdonalds-20210906_016.pdf
+./2021/de/mio-20211211_021.pdf
 ./2021/de/miscellaneous/20210220.pdf
 ./2021/de/olymp-20210702_006.pdf
 ./2021/de/olymp-20210819_002.pdf
@@ -720,6 +724,7 @@
 ./2021/de/sanchopancha-20210730.pdf
 ./2021/de/sportcheck-20211022_001.pdf
 ./2021/de/stadler-20210702_005.pdf
+./2021/de/stadler-20220213_001.pdf
 ./2021/de/star-20210322.pdf
 ./2021/de/star-20210908_001.pdf
 ./2021/de/toom-20210912_004.pdf
@@ -740,6 +745,7 @@
 ./2021/hr/20210906_015.pdf
 ./2021/hr/20210906_017.pdf
 ./2021/hr/20210906_019.pdf
+./2021/hr/amarin-20210309.pdf
 ./2021/hr/ina-20210906_003.pdf
 ./2021/hr/ina-20210906_018.pdf
 ./2021/us/bestbuy-20211211_006.pdf
@@ -798,6 +804,7 @@
 ./2022/de/olymp-20220505_001.pdf
 ./2022/de/pc-20220414_002.pdf
 ./2022/de/penny-20220603.pdf
+./2022/de/pizzaturm-20220416.pdf
 ./2022/de/puskin-20220807.pdf
 ./2022/de/rewe-20220609.pdf
 ./2022/de/rewe-20220611_001.pdf
