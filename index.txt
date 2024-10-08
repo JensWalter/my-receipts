@@ -1150,6 +1150,7 @@
 ./2023/us/walgreens_20231005_010.pdf
 ./2023/us/wynn_20231209_014.pdf
 ./2023/us/yellow_20231209_008.pdf
+./2024/ca/20240909_Hilton.pdf
 ./2024/ca/allomoncoco_20240918_009.pdf
 ./2024/ca/ben_20240918_008.pdf
 ./2024/ca/cora_20240918_010.pdf
@@ -1158,6 +1159,8 @@
 ./2024/ca/eggspectation_20240715_010.pdf
 ./2024/ca/eggspectation_20240918_007.pdf
 ./2024/ca/fiveguys_20240918_016.pdf
+./2024/ca/hoteltoronto_20240715_008.pdf
+./2024/ca/l3b_20240918_014.pdf
 ./2024/ca/lacocina_20240528_001.pdf
 ./2024/ca/oldnavy_20240918_012.pdf
 ./2024/ca/oldnavy_20240918_013.pdf
@@ -1170,6 +1173,7 @@
 ./2024/ca/timhorton_20240918_015.pdf
 ./2024/ca/uniqlo_20240715.pdf
 ./2024/cz/bageterie_20240715_015.pdf
+./2024/cz/cloudone_25240713.pdf
 ./2024/cz/kravin_20240715_013.pdf
 ./2024/de/20240718_cyberport.pdf
 ./2024/de/aral_20240926.pdf
@@ -1203,9 +1207,11 @@
 ./2024/de/mediamarkt_20240427_001.pdf
 ./2024/de/mississipi_20240906_002.pdf
 ./2024/de/motelone_20240302.pdf
+./2024/de/motelone_20240627.pdf
 ./2024/de/parkhaus_20240113_001.pdf
 ./2024/de/pizzaturm_20240113_003.pdf
 ./2024/de/premierinn_20240221.pdf
+./2024/de/premierinn_20240326.pdf
 ./2024/de/rewe_20240729_001.pdf
 ./2024/de/rewe_20240729_002.pdf
 ./2024/de/rewe_20240906_004.pdf
