@@ -1,3 +1,8 @@
 
 Icon
 .DS_Store
+.env
+real_receipts/
+synthetic_receipts/
+__pycache__/
+*.pyc
